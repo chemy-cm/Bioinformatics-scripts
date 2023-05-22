@@ -6,6 +6,7 @@
 
 ```Usage: python gene_length_caculator_gff.py <vcf_file> <gene_length_file>```
 
+
 **2. genes_variant_ratio_count.py**
 
 根据注释后的vcf文件和基因长度信息计算所有基因的变异率（No.of SNPs/length of gene）
@@ -26,6 +27,7 @@ evm.TU.11730_contig_1.9	3117
 ```
 
 the first col is the name of gene, the second col is the length of gene
+
 
 **3. snp_distribution_generate.py**
 
@@ -52,6 +54,7 @@ example file of [genome_info_file]:
 ```
 
 the first col is the name of contig, the second col is the length of contig.
+
 
 **4. snp_distribution.R**
 
