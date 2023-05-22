@@ -25,6 +25,8 @@ evm.TU.11730_contig_1.8	2277
 evm.TU.11730_contig_1.9	3117
 ```
 
+the first col is the name of gene, the second col is the length of gene
+
 **3. snp_distribution_generate.py**
 
 根据vcf文件和基因组contig长度信息文件生成SNPs在基因组上的分布结果
