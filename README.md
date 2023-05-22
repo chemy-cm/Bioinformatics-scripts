@@ -53,6 +53,6 @@ the first col is the name of contig, the second col is the length of contig.
 
 **4. snp_distribution.R**
 
-对SNPs在基因组上的分布结果进行可视化
+基于snp_distribution_generate.py生成的SNPs在基因组上的分布结果进行可视化
 
 ```Usage: Rscript snp_distribution.R [SNP distribution results.txt] [output_plot.pdf/png]```
